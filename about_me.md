@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CubeBox391
+- 👀 I’m interested in python, javascript, youtube and twitch
+- 🌱 I’m currently learning python and javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me discord at discord.gg/kuMYA7f
