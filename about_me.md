@@ -9,15 +9,15 @@
 
 <br>
 <a href="https://github.com/CubeBox391">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CubeBox391&langs_count=3&theme=dark">
+     <img src="https://github-readme-stats.vercel.app/api?username=CubeBox391&show_icons=true&theme=onedark"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"
 </a>
 
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=CubeBox391%237197&color=blue&style=for-the-badge)](https://discord.com/users/639221053071294468)
 
 
-
 <div align="left">
-  <a href="https://discord.com/users/155411408752869377">
-    <img src="https://lanyard-profile-readme.vercel.app/api/155411408752869377?animated=true" align="left" height="205">
+  <a href="https://discord.com/users/639221053071294468">
+    <img src="https://lanyard-profile-readme.vercel.app/api/639221053071294468?animated=true" align="left" height="205">
   </a>
 </div>
