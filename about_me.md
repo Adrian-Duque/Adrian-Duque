@@ -9,7 +9,7 @@
 
 <br>
 <a href="https://github.com/Cube-Box-391">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cube-Box-391&langs_count=3&theme=dark"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cube-Box-391&langs_count=10&theme=dark">
 </a>
 
 [![Discord](https://img.shields.io/static/v1?label=Discord&message=CubeBox391%237197&color=blue&style=for-the-badge)](https://discord.com/users/639221053071294468)
