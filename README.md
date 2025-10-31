@@ -1,7 +1,5 @@
 # ¡Hola! Soy Adrián Duque 👋
 
-<img align="right" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlzaGk2bDVidmU5cjZhOHJlMDR6aWFiZDNodzB5YTVsZXhzNzkyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" />
-
 Soy estudiante de **Ingeniería Informática** en la **Universidad Europea (UEM)** en Madrid, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
 
 Actualmente estoy enfocado en mis estudios en Ingeniería Informática, el Club de Robótica de la UEM, algún que otro proyecto personal y siempre estoy buscando aprender nuevas tecnologías y enfrentar nuevos desafíos.
