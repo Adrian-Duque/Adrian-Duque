@@ -1,22 +1,66 @@
-# <img src="https://user-images.githubusercontent.com/57642291/115981321-b7a44c80-a58a-11eb-8109-79aa8bcf0698.gif" width="25px"> ¡Hey, I'm CubeBox391!
+# ¡Hola! Soy Adrián Duque 👋
 
-#### 🔧 Lenguages:
-- Python
-- JavaScript
+<img align="right" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlzaGk2bDVidmU5cjZhOHJlMDR6aWFiZDNodzB5YTVsZXhzNzkyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" />
 
-### 👑 Projects:
-- CubeBot *(Discord Bot)* - My own discord bot for my discord server - [[Discord]](https://discord.gg/kuMYA7f)
+Soy estudiante de **Ingeniería Informática** en la **Universidad Europea (UEM)** en Madrid, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
 
-<br>
-<a href="https://github.com/Cube-Box-391">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cube-Box-391&langs_count=10&theme=dark&layout=compact">
-</a>
+Actualmente estoy enfocado en mis estudios en Ingeniería Informática, el Club de Robótica de la UEM, algún que otro proyecto personal y siempre estoy buscando aprender nuevas tecnologías y enfrentar nuevos desafíos.
 
-[![Discord](https://img.shields.io/static/v1?label=Discord&message=CubeBox391%237197&color=blue&style=for-the-badge)](https://discord.com/users/639221053071294468)
+---
 
+### 💻 Stack de Tecnologías
 
-<div align="left">
-  <a href="https://discord.com/users/155411408752869377">
-    <img src="https://lanyard-profile-readme.vercel.app/api/639221053071294468?animated=true" align="left" height="205">
+Estas son algunas de las tecnologías con las que he trabajado:
+
+<p align="left">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   </a>
-</div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  </a>
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  </a>
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+</p>
+
+---
+
+### 🌱 En lo que estoy trabajando
+
+* Actualmente estoy aprendiendo Java.
+* Estoy desarrollando Webs y Participando en el Club de Robótica de la UEM.
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adrian-Duque&show_icons=true&theme=vision-friendly-dark&locale=es" alt="Estadísticas de Adrián en GitHub (Toda la vida)" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Duque&layout=compact&theme=vision-friendly-dark&locale=es" alt="Top Lenguajes de Adrián" />
+</p>
+
+---
+
+### 📫 Conecta Conmigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adrian-duque/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adrian.duqueluengo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
