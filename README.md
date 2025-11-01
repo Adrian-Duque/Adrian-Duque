@@ -46,8 +46,8 @@ Estas son algunas de las tecnologías con las que he trabajado:
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img width="48%" height=200 src="https://github-readme-statistics-ten.vercel.app/api?username=Adrian-Duque&show_icons=true&theme=vision-friendly-dark&locale=es&count_private=true" alt="Estadísticas de Adrián en GitHub (Toda la vida)" />
-  <img width="48%" height=200 src="https://github-readme-statistics-ten.vercel.app/api/top-langs/?username=Adrian-Duque&show_icons=true&theme=vision-friendly-dark&locale=es&count_private=true&layout=compact&langs_count=8" alt="Top Lenguajes de Adrián" />
+  <img width="48%" height=250 src="https://github-readme-statistics-ten.vercel.app/api?username=Adrian-Duque&show_icons=true&theme=vision-friendly-dark&locale=es&count_private=true" alt="Estadísticas de Adrián en GitHub (Toda la vida)" />
+  <img width="48%" height=250 src="https://github-readme-statistics-ten.vercel.app/api/top-langs/?username=Adrian-Duque&show_icons=true&theme=vision-friendly-dark&locale=es&count_private=true&layout=compact&langs_count=8" alt="Top Lenguajes de Adrián" />
 </p>
 
 <a>
