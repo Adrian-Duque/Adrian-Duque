@@ -1,6 +1,7 @@
 # ¡Hola! Soy Adrián Duque 👋
 
-Soy estudiante de **Ingeniería Informática** en la **Universidad Europea (UEM)** en Madrid, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
+<img align="right" width="300" height="300" src="https://cdn.discordapp.com/attachments/839203612684320838/1434871357715386490/readme.jpeg?ex=6909e796&is=69089616&hm=811801f49c82c216fae38c6b6f8da340186fa1d83be01efe2ac3b74dcf6e5c1a"/>
+Soy estudiante de Ingeniería Informática en la Universidad Europea (UEM) en Madrid, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
 
 Actualmente estoy enfocado en mis estudios en Ingeniería Informática, el Club de Robótica de la UEM, algún que otro proyecto personal y siempre estoy buscando aprender nuevas tecnologías y enfrentar nuevos desafíos.
 
