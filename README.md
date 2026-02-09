@@ -38,8 +38,7 @@ Estas son algunas de las tecnologías con las que he trabajado:
 ---
 
 ### 🌱 En lo que estoy trabajando
-
-* Actualmente estoy aprendiendo Java.
+* Actualmente estoy aprendiendo Java y Python.
 * Estoy desarrollando Webs y Participando en el Club de Robótica de la UEM.
 
 ---
