@@ -24,6 +24,9 @@ Estas son algunas de las tecnologías con las que he trabajado:
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
+  <a href="https://php.net/" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-00599C?style=for-the-badge&logo=php&logoColor=white" alt="Git" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
