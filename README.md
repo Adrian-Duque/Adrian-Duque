@@ -1,6 +1,6 @@
 # ¡Hola! Soy Adrián Duque 👋
 
-<img align="right" width="300" height="300" src="https://i.postimg.cc/Fsj3jWQc/readme.jpg"/>
+<img align="right" width="300" height="300" src="https://github.com/Adrian-Duque/Adrian-Duque/blob/main/readme.jpg?raw=true"/>
 Soy estudiante de Ingeniería Informática en la Universidad Europea (UEM) en Madrid, apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
 
 Actualmente estoy enfocado en mis estudios en Ingeniería Informática, el Club de Robótica de la UEM, algún que otro proyecto personal y siempre estoy buscando aprender nuevas tecnologías y enfrentar nuevos desafíos.
